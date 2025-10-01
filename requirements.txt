@@ -1,4 +1,5 @@
 streamlit
+sentence-transformers
 langchain
 langchain-core
 langchain-community
